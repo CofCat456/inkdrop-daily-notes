@@ -1,7 +1,7 @@
 {
   "name": "daily-notes",
   "main": "./lib/daily-notes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create Daily Notes",
   "keywords": [],
   "author": "CofCat <a25690756@gmail.com>",
