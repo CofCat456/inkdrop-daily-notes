@@ -25,4 +25,4 @@ ipm install inkdrop-daily-notes
 
 You can Press `cmd+.` to create.
 
-![Preview](https://i.imgur.com/16QGw64.gif)
+![Imgur](https://i.imgur.com/yXpGuwp.gif)
