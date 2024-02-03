@@ -1,0 +1,22 @@
+{
+  "name": "daily-notes",
+  "main": "./lib/daily-notes",
+  "version": "0.0.0",
+  "description": "Create Daily Notes",
+  "keywords": [],
+  "author": "CofCat <a25690756@gmail.com>",
+  "funding": "https://github.com/CofCat456",
+  "homepage": "https://github.com/CofCat456/inkdrop-daily-notes#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CofCat456/inkdrop-daily-notes"
+  },
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "liquidjs": "^10.10.0"
+  }
+}

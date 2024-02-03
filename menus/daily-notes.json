@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "CreateDailyNote",
+        "command": "daily-notes:createDailyNote"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "daily-note",
+          "submenu": [
+            {
+              "label": "CreateDailyNote",
+              "command": "daily-notes:createDailyNote"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
